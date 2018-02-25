@@ -1,6 +1,6 @@
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
-  puts "-----------"o             x
+  puts "-----------"
   puts " #{board[3]} | #{board[4]} | #{board[5]} "
   puts "-----------"
   puts " #{board[6]} | #{board[5]} | #{board[6]} "
